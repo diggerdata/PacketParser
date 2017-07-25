@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PacketParser.iml" filepath="$PROJECT_DIR$/.idea/modules/PacketParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PacketParser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PacketParser_main.iml" group="PacketParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PacketParser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PacketParser_test.iml" group="PacketParser" />
+    </modules>
+  </component>
+</project>
